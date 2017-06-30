@@ -32,6 +32,7 @@
 			<Add option="-Wall" />
 		</Compiler>
 		<Unit filename="practica.s" />
+		<Unit filename="print_array.s" />
 		<Extensions>
 			<code_completion />
 			<debugger />
